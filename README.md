@@ -1,2 +1,1 @@
-## Run
-`node coding-challenge.js`
+This Challenge is written in node.js
